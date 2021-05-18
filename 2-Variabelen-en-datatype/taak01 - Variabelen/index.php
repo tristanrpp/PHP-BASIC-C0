@@ -3,9 +3,9 @@
 <body>
 
 <?php
-$score = 0;
-echo $score;
+$mijngetal = 0;
 ?>
 
-</body>
-</html> 
+<?php
+echo $mijngetal;
+?>
