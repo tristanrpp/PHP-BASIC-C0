@@ -9,3 +9,4 @@ $mijngetal = 0;
 <?php
 echo $mijngetal;
 ?>
+</html>
