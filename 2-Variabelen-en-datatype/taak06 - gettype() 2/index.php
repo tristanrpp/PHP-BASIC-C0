@@ -3,16 +3,35 @@
 <body>
 
 <?php
-$mijngetal = 0;
+$mijngetal = 5;
+?>
+
+<?php
 echo gettype($mijngetal);
-echo "<br>"
+?>
+
+
+<?php
 $x = "Tristan";
 echo gettype($x);
-echo "<br>"
-$melkprijs = 1.45;
+?>
+
+<?php
+$melkprijs = 0.4;
 echo "<br>";
 echo gettype($melkprijs);
 ?>
 
+<?php
+$leeftijd = 18;
+echo gettype($leeftijd);
+?>
+
+<?php
+$test1 = true;
+echo gettype($test1);
+$test2 = null;
+echo gettype($test2);
+?>
 
 </html>
